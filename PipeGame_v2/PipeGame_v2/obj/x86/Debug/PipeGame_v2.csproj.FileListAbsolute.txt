@@ -1,0 +1,1342 @@
+c:\users\dylan\documents\visual studio 2015\Projects\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Sounds\pipeShift1.wav
+c:\users\dylan\documents\visual studio 2015\Projects\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Sounds\pipeShift2.wav
+c:\users\dylan\documents\visual studio 2015\Projects\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\GameScr\bcg.jpg
+c:\users\dylan\documents\visual studio 2015\Projects\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\GameScr\Corner\corPipe1.png
+c:\users\dylan\documents\visual studio 2015\Projects\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\GameScr\Corner\corPipe2.png
+c:\users\dylan\documents\visual studio 2015\Projects\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\GameScr\Corner\corPipe3.png
+c:\users\dylan\documents\visual studio 2015\Projects\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\GameScr\Corner\corPipe4.png
+c:\users\dylan\documents\visual studio 2015\Projects\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\GameScr\Corner\corPipe5.png
+c:\users\dylan\documents\visual studio 2015\Projects\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\GameScr\Corner\corPipe6.png
+c:\users\dylan\documents\visual studio 2015\Projects\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\GameScr\Corner\corPipe7.png
+c:\users\dylan\documents\visual studio 2015\Projects\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\GameScr\Corner\corPipe8.png
+c:\users\dylan\documents\visual studio 2015\Projects\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\GameScr\Cutoff\cutPipe1.png
+c:\users\dylan\documents\visual studio 2015\Projects\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\GameScr\Cutoff\cutPipe2.png
+c:\users\dylan\documents\visual studio 2015\Projects\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\GameScr\Cutoff\cutPipe3.png
+c:\users\dylan\documents\visual studio 2015\Projects\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\GameScr\Cutoff\cutPipe4.png
+c:\users\dylan\documents\visual studio 2015\Projects\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\GameScr\Cutoff\cutPipe5.png
+c:\users\dylan\documents\visual studio 2015\Projects\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\GameScr\Cutoff\cutPipe6.png
+c:\users\dylan\documents\visual studio 2015\Projects\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\GameScr\Cutoff\cutPipe7.png
+c:\users\dylan\documents\visual studio 2015\Projects\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\GameScr\Cutoff\cutPipe8.png
+c:\users\dylan\documents\visual studio 2015\Projects\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\GameScr\Straight\strPipe1.png
+c:\users\dylan\documents\visual studio 2015\Projects\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\GameScr\Straight\strPipe2.png
+c:\users\dylan\documents\visual studio 2015\Projects\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\GameScr\Straight\strPipe3.png
+c:\users\dylan\documents\visual studio 2015\Projects\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\GameScr\Straight\strPipe4.png
+c:\users\dylan\documents\visual studio 2015\Projects\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\MenuScr\bcg.png
+c:\users\dylan\documents\visual studio 2015\Projects\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\MenuScr\levelsButton1.png
+c:\users\dylan\documents\visual studio 2015\Projects\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\MenuScr\levelsButton2.png
+c:\users\dylan\documents\visual studio 2015\Projects\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\MenuScr\levelsButton3.png
+c:\users\dylan\documents\visual studio 2015\Projects\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani1.png
+c:\users\dylan\documents\visual studio 2015\Projects\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani10.png
+c:\users\dylan\documents\visual studio 2015\Projects\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani12.png
+c:\users\dylan\documents\visual studio 2015\Projects\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani13.png
+c:\users\dylan\documents\visual studio 2015\Projects\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani14.png
+c:\users\dylan\documents\visual studio 2015\Projects\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani15.png
+c:\users\dylan\documents\visual studio 2015\Projects\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani16.png
+c:\users\dylan\documents\visual studio 2015\Projects\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani17.png
+c:\users\dylan\documents\visual studio 2015\Projects\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani18.png
+c:\users\dylan\documents\visual studio 2015\Projects\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani19.png
+c:\users\dylan\documents\visual studio 2015\Projects\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani2.png
+c:\users\dylan\documents\visual studio 2015\Projects\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani20.png
+c:\users\dylan\documents\visual studio 2015\Projects\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani21.png
+c:\users\dylan\documents\visual studio 2015\Projects\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani22.png
+c:\users\dylan\documents\visual studio 2015\Projects\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani23.png
+c:\users\dylan\documents\visual studio 2015\Projects\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani24.png
+c:\users\dylan\documents\visual studio 2015\Projects\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani25.png
+c:\users\dylan\documents\visual studio 2015\Projects\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani26.png
+c:\users\dylan\documents\visual studio 2015\Projects\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani27.png
+c:\users\dylan\documents\visual studio 2015\Projects\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani28.png
+c:\users\dylan\documents\visual studio 2015\Projects\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani29.png
+c:\users\dylan\documents\visual studio 2015\Projects\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani3.png
+c:\users\dylan\documents\visual studio 2015\Projects\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani30.png
+c:\users\dylan\documents\visual studio 2015\Projects\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani31.png
+c:\users\dylan\documents\visual studio 2015\Projects\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani32.png
+c:\users\dylan\documents\visual studio 2015\Projects\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani33.png
+c:\users\dylan\documents\visual studio 2015\Projects\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani34.png
+c:\users\dylan\documents\visual studio 2015\Projects\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani35.png
+c:\users\dylan\documents\visual studio 2015\Projects\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani36.png
+c:\users\dylan\documents\visual studio 2015\Projects\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani37.png
+c:\users\dylan\documents\visual studio 2015\Projects\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani38.png
+c:\users\dylan\documents\visual studio 2015\Projects\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani39.png
+c:\users\dylan\documents\visual studio 2015\Projects\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani4.png
+c:\users\dylan\documents\visual studio 2015\Projects\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani40.png
+c:\users\dylan\documents\visual studio 2015\Projects\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani41.png
+c:\users\dylan\documents\visual studio 2015\Projects\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani42.png
+c:\users\dylan\documents\visual studio 2015\Projects\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani43.png
+c:\users\dylan\documents\visual studio 2015\Projects\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani44.png
+c:\users\dylan\documents\visual studio 2015\Projects\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani45.png
+c:\users\dylan\documents\visual studio 2015\Projects\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani46.png
+c:\users\dylan\documents\visual studio 2015\Projects\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani47.png
+c:\users\dylan\documents\visual studio 2015\Projects\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani48.png
+c:\users\dylan\documents\visual studio 2015\Projects\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani49.png
+c:\users\dylan\documents\visual studio 2015\Projects\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani5.png
+c:\users\dylan\documents\visual studio 2015\Projects\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani50.png
+c:\users\dylan\documents\visual studio 2015\Projects\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani52.png
+c:\users\dylan\documents\visual studio 2015\Projects\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani53.png
+c:\users\dylan\documents\visual studio 2015\Projects\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani54.png
+c:\users\dylan\documents\visual studio 2015\Projects\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani55.png
+c:\users\dylan\documents\visual studio 2015\Projects\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani56.png
+c:\users\dylan\documents\visual studio 2015\Projects\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani57.png
+c:\users\dylan\documents\visual studio 2015\Projects\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani58.png
+c:\users\dylan\documents\visual studio 2015\Projects\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani59.png
+c:\users\dylan\documents\visual studio 2015\Projects\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani6.png
+c:\users\dylan\documents\visual studio 2015\Projects\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani60.png
+c:\users\dylan\documents\visual studio 2015\Projects\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani61.png
+c:\users\dylan\documents\visual studio 2015\Projects\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani62.png
+c:\users\dylan\documents\visual studio 2015\Projects\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani63.png
+c:\users\dylan\documents\visual studio 2015\Projects\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani64.png
+c:\users\dylan\documents\visual studio 2015\Projects\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani65.png
+c:\users\dylan\documents\visual studio 2015\Projects\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani66.png
+c:\users\dylan\documents\visual studio 2015\Projects\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani67.png
+c:\users\dylan\documents\visual studio 2015\Projects\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani68.png
+c:\users\dylan\documents\visual studio 2015\Projects\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani69.png
+c:\users\dylan\documents\visual studio 2015\Projects\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani7.png
+c:\users\dylan\documents\visual studio 2015\Projects\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani70.png
+c:\users\dylan\documents\visual studio 2015\Projects\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani71.png
+c:\users\dylan\documents\visual studio 2015\Projects\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani72.png
+c:\users\dylan\documents\visual studio 2015\Projects\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani73.png
+c:\users\dylan\documents\visual studio 2015\Projects\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani74.png
+c:\users\dylan\documents\visual studio 2015\Projects\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani75.png
+c:\users\dylan\documents\visual studio 2015\Projects\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani76.png
+c:\users\dylan\documents\visual studio 2015\Projects\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani77.png
+c:\users\dylan\documents\visual studio 2015\Projects\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani78.png
+c:\users\dylan\documents\visual studio 2015\Projects\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani79.png
+c:\users\dylan\documents\visual studio 2015\Projects\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani8.png
+c:\users\dylan\documents\visual studio 2015\Projects\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani80.png
+c:\users\dylan\documents\visual studio 2015\Projects\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani9.png
+c:\users\dylan\documents\visual studio 2015\Projects\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenScr\bcg.jpg
+c:\users\dylan\documents\visual studio 2015\Projects\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenScr\playButton1.png
+c:\users\dylan\documents\visual studio 2015\Projects\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenScr\playButton2.png
+c:\users\dylan\documents\visual studio 2015\Projects\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenScr\playButton3.png
+c:\users\dylan\documents\visual studio 2015\Projects\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\PipeGame_v2.exe
+c:\users\dylan\documents\visual studio 2015\Projects\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\PipeGame_v2.pdb
+c:\users\dylan\documents\visual studio 2015\Projects\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\MonoGame.Framework.dll
+c:\users\dylan\documents\visual studio 2015\Projects\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+c:\users\dylan\documents\visual studio 2015\Projects\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\SharpDX.dll
+c:\users\dylan\documents\visual studio 2015\Projects\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+c:\users\dylan\documents\visual studio 2015\Projects\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+c:\users\dylan\documents\visual studio 2015\Projects\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+c:\users\dylan\documents\visual studio 2015\Projects\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+c:\users\dylan\documents\visual studio 2015\Projects\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\SharpDX.XInput.dll
+c:\users\dylan\documents\visual studio 2015\Projects\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\SharpDX.RawInput.dll
+c:\users\dylan\documents\visual studio 2015\Projects\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+c:\users\dylan\documents\visual studio 2015\Projects\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\MonoGame.Framework.xml
+c:\users\dylan\documents\visual studio 2015\Projects\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+c:\users\dylan\documents\visual studio 2015\Projects\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\SharpDX.xml
+c:\users\dylan\documents\visual studio 2015\Projects\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+c:\users\dylan\documents\visual studio 2015\Projects\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+c:\users\dylan\documents\visual studio 2015\Projects\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+c:\users\dylan\documents\visual studio 2015\Projects\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+c:\users\dylan\documents\visual studio 2015\Projects\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\SharpDX.XInput.xml
+c:\users\dylan\documents\visual studio 2015\Projects\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\SharpDX.RawInput.xml
+c:\users\dylan\documents\visual studio 2015\Projects\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+c:\users\dylan\documents\visual studio 2015\Projects\PipeGame_v2\PipeGame_v2\obj\x86\Debug\PipeGame_v2.csprojResolveAssemblyReference.cache
+c:\users\dylan\documents\visual studio 2015\Projects\PipeGame_v2\PipeGame_v2\obj\x86\Debug\PipeGame_v2.exe
+c:\users\dylan\documents\visual studio 2015\Projects\PipeGame_v2\PipeGame_v2\obj\x86\Debug\PipeGame_v2.pdb
+c:\users\dylan\documents\visual studio 2015\Projects\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani11.png
+c:\users\dylan\documents\visual studio 2015\Projects\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani51.png
+c:\users\dylan\documents\visual studio 2015\Projects\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Sounds\pipeShift1.xnb
+c:\users\dylan\documents\visual studio 2015\Projects\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Sounds\pipeShift2.xnb
+c:\users\dylan\documents\visual studio 2015\Projects\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\GameScr\bcg.xnb
+c:\users\dylan\documents\visual studio 2015\Projects\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\GameScr\Corner\corPipe1.xnb
+c:\users\dylan\documents\visual studio 2015\Projects\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\GameScr\Corner\corPipe2.xnb
+c:\users\dylan\documents\visual studio 2015\Projects\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\GameScr\Corner\corPipe3.xnb
+c:\users\dylan\documents\visual studio 2015\Projects\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\GameScr\Corner\corPipe4.xnb
+c:\users\dylan\documents\visual studio 2015\Projects\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\GameScr\Corner\corPipe5.xnb
+c:\users\dylan\documents\visual studio 2015\Projects\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\GameScr\Corner\corPipe6.xnb
+c:\users\dylan\documents\visual studio 2015\Projects\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\GameScr\Corner\corPipe7.xnb
+c:\users\dylan\documents\visual studio 2015\Projects\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\GameScr\Corner\corPipe8.xnb
+c:\users\dylan\documents\visual studio 2015\Projects\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\GameScr\Cutoff\cutPipe1.xnb
+c:\users\dylan\documents\visual studio 2015\Projects\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\GameScr\Cutoff\cutPipe2.xnb
+c:\users\dylan\documents\visual studio 2015\Projects\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\GameScr\Cutoff\cutPipe3.xnb
+c:\users\dylan\documents\visual studio 2015\Projects\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\GameScr\Cutoff\cutPipe4.xnb
+c:\users\dylan\documents\visual studio 2015\Projects\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\GameScr\Cutoff\cutPipe5.xnb
+c:\users\dylan\documents\visual studio 2015\Projects\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\GameScr\Cutoff\cutPipe6.xnb
+c:\users\dylan\documents\visual studio 2015\Projects\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\GameScr\Cutoff\cutPipe7.xnb
+c:\users\dylan\documents\visual studio 2015\Projects\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\GameScr\Cutoff\cutPipe8.xnb
+c:\users\dylan\documents\visual studio 2015\Projects\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\GameScr\Straight\strPipe1.xnb
+c:\users\dylan\documents\visual studio 2015\Projects\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\GameScr\Straight\strPipe2.xnb
+c:\users\dylan\documents\visual studio 2015\Projects\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\GameScr\Straight\strPipe3.xnb
+c:\users\dylan\documents\visual studio 2015\Projects\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\GameScr\Straight\strPipe4.xnb
+c:\users\dylan\documents\visual studio 2015\Projects\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\MenuScr\bcg.xnb
+c:\users\dylan\documents\visual studio 2015\Projects\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\MenuScr\levelsButton1.xnb
+c:\users\dylan\documents\visual studio 2015\Projects\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\MenuScr\levelsButton2.xnb
+c:\users\dylan\documents\visual studio 2015\Projects\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\MenuScr\levelsButton3.xnb
+c:\users\dylan\documents\visual studio 2015\Projects\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani1.xnb
+c:\users\dylan\documents\visual studio 2015\Projects\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani10.xnb
+c:\users\dylan\documents\visual studio 2015\Projects\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani11.xnb
+c:\users\dylan\documents\visual studio 2015\Projects\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani12.xnb
+c:\users\dylan\documents\visual studio 2015\Projects\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani13.xnb
+c:\users\dylan\documents\visual studio 2015\Projects\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani14.xnb
+c:\users\dylan\documents\visual studio 2015\Projects\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani15.xnb
+c:\users\dylan\documents\visual studio 2015\Projects\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani16.xnb
+c:\users\dylan\documents\visual studio 2015\Projects\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani17.xnb
+c:\users\dylan\documents\visual studio 2015\Projects\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani18.xnb
+c:\users\dylan\documents\visual studio 2015\Projects\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani19.xnb
+c:\users\dylan\documents\visual studio 2015\Projects\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani2.xnb
+c:\users\dylan\documents\visual studio 2015\Projects\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani20.xnb
+c:\users\dylan\documents\visual studio 2015\Projects\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani21.xnb
+c:\users\dylan\documents\visual studio 2015\Projects\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani22.xnb
+c:\users\dylan\documents\visual studio 2015\Projects\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani23.xnb
+c:\users\dylan\documents\visual studio 2015\Projects\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani24.xnb
+c:\users\dylan\documents\visual studio 2015\Projects\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani25.xnb
+c:\users\dylan\documents\visual studio 2015\Projects\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani26.xnb
+c:\users\dylan\documents\visual studio 2015\Projects\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani27.xnb
+c:\users\dylan\documents\visual studio 2015\Projects\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani28.xnb
+c:\users\dylan\documents\visual studio 2015\Projects\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani29.xnb
+c:\users\dylan\documents\visual studio 2015\Projects\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani3.xnb
+c:\users\dylan\documents\visual studio 2015\Projects\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani30.xnb
+c:\users\dylan\documents\visual studio 2015\Projects\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani31.xnb
+c:\users\dylan\documents\visual studio 2015\Projects\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani32.xnb
+c:\users\dylan\documents\visual studio 2015\Projects\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani33.xnb
+c:\users\dylan\documents\visual studio 2015\Projects\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani34.xnb
+c:\users\dylan\documents\visual studio 2015\Projects\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani35.xnb
+c:\users\dylan\documents\visual studio 2015\Projects\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani36.xnb
+c:\users\dylan\documents\visual studio 2015\Projects\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani37.xnb
+c:\users\dylan\documents\visual studio 2015\Projects\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani38.xnb
+c:\users\dylan\documents\visual studio 2015\Projects\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani39.xnb
+c:\users\dylan\documents\visual studio 2015\Projects\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani4.xnb
+c:\users\dylan\documents\visual studio 2015\Projects\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani40.xnb
+c:\users\dylan\documents\visual studio 2015\Projects\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani41.xnb
+c:\users\dylan\documents\visual studio 2015\Projects\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani42.xnb
+c:\users\dylan\documents\visual studio 2015\Projects\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani43.xnb
+c:\users\dylan\documents\visual studio 2015\Projects\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani44.xnb
+c:\users\dylan\documents\visual studio 2015\Projects\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani45.xnb
+c:\users\dylan\documents\visual studio 2015\Projects\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani46.xnb
+c:\users\dylan\documents\visual studio 2015\Projects\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani47.xnb
+c:\users\dylan\documents\visual studio 2015\Projects\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani48.xnb
+c:\users\dylan\documents\visual studio 2015\Projects\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani49.xnb
+c:\users\dylan\documents\visual studio 2015\Projects\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani5.xnb
+c:\users\dylan\documents\visual studio 2015\Projects\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani50.xnb
+c:\users\dylan\documents\visual studio 2015\Projects\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani51.xnb
+c:\users\dylan\documents\visual studio 2015\Projects\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani52.xnb
+c:\users\dylan\documents\visual studio 2015\Projects\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani53.xnb
+c:\users\dylan\documents\visual studio 2015\Projects\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani54.xnb
+c:\users\dylan\documents\visual studio 2015\Projects\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani55.xnb
+c:\users\dylan\documents\visual studio 2015\Projects\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani56.xnb
+c:\users\dylan\documents\visual studio 2015\Projects\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani57.xnb
+c:\users\dylan\documents\visual studio 2015\Projects\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani58.xnb
+c:\users\dylan\documents\visual studio 2015\Projects\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani59.xnb
+c:\users\dylan\documents\visual studio 2015\Projects\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani6.xnb
+c:\users\dylan\documents\visual studio 2015\Projects\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani60.xnb
+c:\users\dylan\documents\visual studio 2015\Projects\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani61.xnb
+c:\users\dylan\documents\visual studio 2015\Projects\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani62.xnb
+c:\users\dylan\documents\visual studio 2015\Projects\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani63.xnb
+c:\users\dylan\documents\visual studio 2015\Projects\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani64.xnb
+c:\users\dylan\documents\visual studio 2015\Projects\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani65.xnb
+c:\users\dylan\documents\visual studio 2015\Projects\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani66.xnb
+c:\users\dylan\documents\visual studio 2015\Projects\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani67.xnb
+c:\users\dylan\documents\visual studio 2015\Projects\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani68.xnb
+c:\users\dylan\documents\visual studio 2015\Projects\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani69.xnb
+c:\users\dylan\documents\visual studio 2015\Projects\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani7.xnb
+c:\users\dylan\documents\visual studio 2015\Projects\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani70.xnb
+c:\users\dylan\documents\visual studio 2015\Projects\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani71.xnb
+c:\users\dylan\documents\visual studio 2015\Projects\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani72.xnb
+c:\users\dylan\documents\visual studio 2015\Projects\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani73.xnb
+c:\users\dylan\documents\visual studio 2015\Projects\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani74.xnb
+c:\users\dylan\documents\visual studio 2015\Projects\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani75.xnb
+c:\users\dylan\documents\visual studio 2015\Projects\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani76.xnb
+c:\users\dylan\documents\visual studio 2015\Projects\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani77.xnb
+c:\users\dylan\documents\visual studio 2015\Projects\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani78.xnb
+c:\users\dylan\documents\visual studio 2015\Projects\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani79.xnb
+c:\users\dylan\documents\visual studio 2015\Projects\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani8.xnb
+c:\users\dylan\documents\visual studio 2015\Projects\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani80.xnb
+c:\users\dylan\documents\visual studio 2015\Projects\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani9.xnb
+c:\users\dylan\documents\visual studio 2015\Projects\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenScr\bcg.xnb
+c:\users\dylan\documents\visual studio 2015\Projects\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenScr\playButton1.xnb
+c:\users\dylan\documents\visual studio 2015\Projects\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenScr\playButton2.xnb
+c:\users\dylan\documents\visual studio 2015\Projects\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenScr\playButton3.xnb
+C:\Users\Dylan\Documents\PipeGame\PipeGame_v2\PipeGame_v2\obj\x86\Debug\PipeGame_v2.exe
+C:\Users\Dylan\Documents\PipeGame\PipeGame_v2\PipeGame_v2\obj\x86\Debug\PipeGame_v2.pdb
+C:\Users\Dylan\Documents\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Sounds\pipeShift1.xnb
+C:\Users\Dylan\Documents\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Sounds\pipeShift2.xnb
+C:\Users\Dylan\Documents\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\GameScr\bcg.xnb
+C:\Users\Dylan\Documents\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\GameScr\Corner\corPipe1.xnb
+C:\Users\Dylan\Documents\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\GameScr\Corner\corPipe2.xnb
+C:\Users\Dylan\Documents\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\GameScr\Corner\corPipe3.xnb
+C:\Users\Dylan\Documents\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\GameScr\Corner\corPipe4.xnb
+C:\Users\Dylan\Documents\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\GameScr\Corner\corPipe5.xnb
+C:\Users\Dylan\Documents\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\GameScr\Corner\corPipe6.xnb
+C:\Users\Dylan\Documents\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\GameScr\Corner\corPipe7.xnb
+C:\Users\Dylan\Documents\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\GameScr\Corner\corPipe8.xnb
+C:\Users\Dylan\Documents\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\GameScr\Cutoff\cutPipe1.xnb
+C:\Users\Dylan\Documents\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\GameScr\Cutoff\cutPipe2.xnb
+C:\Users\Dylan\Documents\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\GameScr\Cutoff\cutPipe3.xnb
+C:\Users\Dylan\Documents\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\GameScr\Cutoff\cutPipe4.xnb
+C:\Users\Dylan\Documents\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\GameScr\Cutoff\cutPipe5.xnb
+C:\Users\Dylan\Documents\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\GameScr\Cutoff\cutPipe6.xnb
+C:\Users\Dylan\Documents\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\GameScr\Cutoff\cutPipe7.xnb
+C:\Users\Dylan\Documents\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\GameScr\Cutoff\cutPipe8.xnb
+C:\Users\Dylan\Documents\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\GameScr\Straight\strPipe1.xnb
+C:\Users\Dylan\Documents\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\GameScr\Straight\strPipe2.xnb
+C:\Users\Dylan\Documents\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\GameScr\Straight\strPipe3.xnb
+C:\Users\Dylan\Documents\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\GameScr\Straight\strPipe4.xnb
+C:\Users\Dylan\Documents\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\MenuScr\bcg.xnb
+C:\Users\Dylan\Documents\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\MenuScr\levelsButton1.xnb
+C:\Users\Dylan\Documents\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\MenuScr\levelsButton2.xnb
+C:\Users\Dylan\Documents\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\MenuScr\levelsButton3.xnb
+C:\Users\Dylan\Documents\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani1.xnb
+C:\Users\Dylan\Documents\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani10.xnb
+C:\Users\Dylan\Documents\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani11.xnb
+C:\Users\Dylan\Documents\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani12.xnb
+C:\Users\Dylan\Documents\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani13.xnb
+C:\Users\Dylan\Documents\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani14.xnb
+C:\Users\Dylan\Documents\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani15.xnb
+C:\Users\Dylan\Documents\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani16.xnb
+C:\Users\Dylan\Documents\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani17.xnb
+C:\Users\Dylan\Documents\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani18.xnb
+C:\Users\Dylan\Documents\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani19.xnb
+C:\Users\Dylan\Documents\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani2.xnb
+C:\Users\Dylan\Documents\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani20.xnb
+C:\Users\Dylan\Documents\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani21.xnb
+C:\Users\Dylan\Documents\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani22.xnb
+C:\Users\Dylan\Documents\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani23.xnb
+C:\Users\Dylan\Documents\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani24.xnb
+C:\Users\Dylan\Documents\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani25.xnb
+C:\Users\Dylan\Documents\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani26.xnb
+C:\Users\Dylan\Documents\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani27.xnb
+C:\Users\Dylan\Documents\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani28.xnb
+C:\Users\Dylan\Documents\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani29.xnb
+C:\Users\Dylan\Documents\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani3.xnb
+C:\Users\Dylan\Documents\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani30.xnb
+C:\Users\Dylan\Documents\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani31.xnb
+C:\Users\Dylan\Documents\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani32.xnb
+C:\Users\Dylan\Documents\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani33.xnb
+C:\Users\Dylan\Documents\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani34.xnb
+C:\Users\Dylan\Documents\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani35.xnb
+C:\Users\Dylan\Documents\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani36.xnb
+C:\Users\Dylan\Documents\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani37.xnb
+C:\Users\Dylan\Documents\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani38.xnb
+C:\Users\Dylan\Documents\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani39.xnb
+C:\Users\Dylan\Documents\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani4.xnb
+C:\Users\Dylan\Documents\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani40.xnb
+C:\Users\Dylan\Documents\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani41.xnb
+C:\Users\Dylan\Documents\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani42.xnb
+C:\Users\Dylan\Documents\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani43.xnb
+C:\Users\Dylan\Documents\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani44.xnb
+C:\Users\Dylan\Documents\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani45.xnb
+C:\Users\Dylan\Documents\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani46.xnb
+C:\Users\Dylan\Documents\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani47.xnb
+C:\Users\Dylan\Documents\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani48.xnb
+C:\Users\Dylan\Documents\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani49.xnb
+C:\Users\Dylan\Documents\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani5.xnb
+C:\Users\Dylan\Documents\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani50.xnb
+C:\Users\Dylan\Documents\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani51.xnb
+C:\Users\Dylan\Documents\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani52.xnb
+C:\Users\Dylan\Documents\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani53.xnb
+C:\Users\Dylan\Documents\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani54.xnb
+C:\Users\Dylan\Documents\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani55.xnb
+C:\Users\Dylan\Documents\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani56.xnb
+C:\Users\Dylan\Documents\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani57.xnb
+C:\Users\Dylan\Documents\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani58.xnb
+C:\Users\Dylan\Documents\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani59.xnb
+C:\Users\Dylan\Documents\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani6.xnb
+C:\Users\Dylan\Documents\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani60.xnb
+C:\Users\Dylan\Documents\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani61.xnb
+C:\Users\Dylan\Documents\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani62.xnb
+C:\Users\Dylan\Documents\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani63.xnb
+C:\Users\Dylan\Documents\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani64.xnb
+C:\Users\Dylan\Documents\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani65.xnb
+C:\Users\Dylan\Documents\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani66.xnb
+C:\Users\Dylan\Documents\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani67.xnb
+C:\Users\Dylan\Documents\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani68.xnb
+C:\Users\Dylan\Documents\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani69.xnb
+C:\Users\Dylan\Documents\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani7.xnb
+C:\Users\Dylan\Documents\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani70.xnb
+C:\Users\Dylan\Documents\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani71.xnb
+C:\Users\Dylan\Documents\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani72.xnb
+C:\Users\Dylan\Documents\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani73.xnb
+C:\Users\Dylan\Documents\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani74.xnb
+C:\Users\Dylan\Documents\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani75.xnb
+C:\Users\Dylan\Documents\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani76.xnb
+C:\Users\Dylan\Documents\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani77.xnb
+C:\Users\Dylan\Documents\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani78.xnb
+C:\Users\Dylan\Documents\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani79.xnb
+C:\Users\Dylan\Documents\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani8.xnb
+C:\Users\Dylan\Documents\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani80.xnb
+C:\Users\Dylan\Documents\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani9.xnb
+C:\Users\Dylan\Documents\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenScr\bcg.xnb
+C:\Users\Dylan\Documents\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenScr\playButton1.xnb
+C:\Users\Dylan\Documents\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenScr\playButton2.xnb
+C:\Users\Dylan\Documents\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenScr\playButton3.xnb
+C:\Users\Dylan\Documents\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Sounds\pipeShift1.wav
+C:\Users\Dylan\Documents\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Sounds\pipeShift2.wav
+C:\Users\Dylan\Documents\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\GameScr\bcg.jpg
+C:\Users\Dylan\Documents\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\GameScr\Corner\corPipe1.png
+C:\Users\Dylan\Documents\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\GameScr\Corner\corPipe2.png
+C:\Users\Dylan\Documents\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\GameScr\Corner\corPipe3.png
+C:\Users\Dylan\Documents\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\GameScr\Corner\corPipe4.png
+C:\Users\Dylan\Documents\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\GameScr\Corner\corPipe5.png
+C:\Users\Dylan\Documents\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\GameScr\Corner\corPipe6.png
+C:\Users\Dylan\Documents\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\GameScr\Corner\corPipe7.png
+C:\Users\Dylan\Documents\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\GameScr\Corner\corPipe8.png
+C:\Users\Dylan\Documents\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\GameScr\Cutoff\cutPipe1.png
+C:\Users\Dylan\Documents\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\GameScr\Cutoff\cutPipe2.png
+C:\Users\Dylan\Documents\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\GameScr\Cutoff\cutPipe3.png
+C:\Users\Dylan\Documents\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\GameScr\Cutoff\cutPipe4.png
+C:\Users\Dylan\Documents\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\GameScr\Cutoff\cutPipe5.png
+C:\Users\Dylan\Documents\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\GameScr\Cutoff\cutPipe6.png
+C:\Users\Dylan\Documents\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\GameScr\Cutoff\cutPipe7.png
+C:\Users\Dylan\Documents\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\GameScr\Cutoff\cutPipe8.png
+C:\Users\Dylan\Documents\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\GameScr\Straight\strPipe1.png
+C:\Users\Dylan\Documents\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\GameScr\Straight\strPipe2.png
+C:\Users\Dylan\Documents\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\GameScr\Straight\strPipe3.png
+C:\Users\Dylan\Documents\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\GameScr\Straight\strPipe4.png
+C:\Users\Dylan\Documents\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\MenuScr\bcg.png
+C:\Users\Dylan\Documents\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\MenuScr\levelsButton1.png
+C:\Users\Dylan\Documents\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\MenuScr\levelsButton2.png
+C:\Users\Dylan\Documents\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\MenuScr\levelsButton3.png
+C:\Users\Dylan\Documents\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani1.png
+C:\Users\Dylan\Documents\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani10.png
+C:\Users\Dylan\Documents\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani11.png
+C:\Users\Dylan\Documents\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani12.png
+C:\Users\Dylan\Documents\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani13.png
+C:\Users\Dylan\Documents\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani14.png
+C:\Users\Dylan\Documents\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani15.png
+C:\Users\Dylan\Documents\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani16.png
+C:\Users\Dylan\Documents\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani17.png
+C:\Users\Dylan\Documents\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani18.png
+C:\Users\Dylan\Documents\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani19.png
+C:\Users\Dylan\Documents\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani2.png
+C:\Users\Dylan\Documents\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani20.png
+C:\Users\Dylan\Documents\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani21.png
+C:\Users\Dylan\Documents\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani22.png
+C:\Users\Dylan\Documents\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani23.png
+C:\Users\Dylan\Documents\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani24.png
+C:\Users\Dylan\Documents\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani25.png
+C:\Users\Dylan\Documents\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani26.png
+C:\Users\Dylan\Documents\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani27.png
+C:\Users\Dylan\Documents\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani28.png
+C:\Users\Dylan\Documents\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani29.png
+C:\Users\Dylan\Documents\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani3.png
+C:\Users\Dylan\Documents\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani30.png
+C:\Users\Dylan\Documents\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani31.png
+C:\Users\Dylan\Documents\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani32.png
+C:\Users\Dylan\Documents\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani33.png
+C:\Users\Dylan\Documents\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani34.png
+C:\Users\Dylan\Documents\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani35.png
+C:\Users\Dylan\Documents\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani36.png
+C:\Users\Dylan\Documents\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani37.png
+C:\Users\Dylan\Documents\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani38.png
+C:\Users\Dylan\Documents\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani39.png
+C:\Users\Dylan\Documents\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani4.png
+C:\Users\Dylan\Documents\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani40.png
+C:\Users\Dylan\Documents\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani41.png
+C:\Users\Dylan\Documents\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani42.png
+C:\Users\Dylan\Documents\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani43.png
+C:\Users\Dylan\Documents\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani44.png
+C:\Users\Dylan\Documents\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani45.png
+C:\Users\Dylan\Documents\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani46.png
+C:\Users\Dylan\Documents\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani47.png
+C:\Users\Dylan\Documents\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani48.png
+C:\Users\Dylan\Documents\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani49.png
+C:\Users\Dylan\Documents\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani5.png
+C:\Users\Dylan\Documents\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani50.png
+C:\Users\Dylan\Documents\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani51.png
+C:\Users\Dylan\Documents\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani52.png
+C:\Users\Dylan\Documents\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani53.png
+C:\Users\Dylan\Documents\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani54.png
+C:\Users\Dylan\Documents\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani55.png
+C:\Users\Dylan\Documents\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani56.png
+C:\Users\Dylan\Documents\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani57.png
+C:\Users\Dylan\Documents\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani58.png
+C:\Users\Dylan\Documents\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani59.png
+C:\Users\Dylan\Documents\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani6.png
+C:\Users\Dylan\Documents\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani60.png
+C:\Users\Dylan\Documents\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani61.png
+C:\Users\Dylan\Documents\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani62.png
+C:\Users\Dylan\Documents\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani63.png
+C:\Users\Dylan\Documents\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani64.png
+C:\Users\Dylan\Documents\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani65.png
+C:\Users\Dylan\Documents\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani66.png
+C:\Users\Dylan\Documents\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani67.png
+C:\Users\Dylan\Documents\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani68.png
+C:\Users\Dylan\Documents\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani69.png
+C:\Users\Dylan\Documents\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani7.png
+C:\Users\Dylan\Documents\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani70.png
+C:\Users\Dylan\Documents\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani71.png
+C:\Users\Dylan\Documents\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani72.png
+C:\Users\Dylan\Documents\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani73.png
+C:\Users\Dylan\Documents\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani74.png
+C:\Users\Dylan\Documents\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani75.png
+C:\Users\Dylan\Documents\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani76.png
+C:\Users\Dylan\Documents\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani77.png
+C:\Users\Dylan\Documents\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani78.png
+C:\Users\Dylan\Documents\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani79.png
+C:\Users\Dylan\Documents\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani8.png
+C:\Users\Dylan\Documents\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani80.png
+C:\Users\Dylan\Documents\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani9.png
+C:\Users\Dylan\Documents\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenScr\bcg.jpg
+C:\Users\Dylan\Documents\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenScr\playButton1.png
+C:\Users\Dylan\Documents\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenScr\playButton2.png
+C:\Users\Dylan\Documents\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenScr\playButton3.png
+C:\Users\Dylan\Documents\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\PipeGame_v2.exe
+C:\Users\Dylan\Documents\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\PipeGame_v2.pdb
+C:\Users\Dylan\Documents\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\Dylan\Documents\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Dylan\Documents\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\Dylan\Documents\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\Dylan\Documents\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\Dylan\Documents\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\Dylan\Documents\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\Dylan\Documents\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\Dylan\Documents\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\SharpDX.RawInput.dll
+C:\Users\Dylan\Documents\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\Dylan\Documents\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\Dylan\Documents\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Dylan\Documents\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\Dylan\Documents\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\Dylan\Documents\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\Dylan\Documents\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\Dylan\Documents\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\Dylan\Documents\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\Dylan\Documents\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\SharpDX.RawInput.xml
+C:\Users\Dylan\Documents\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\Dylan\Documents\PipeGame\PipeGame_v2\PipeGame_v2\obj\x86\Debug\PipeGame_v2.csprojResolveAssemblyReference.cache
+C:\Users\Dylan\Documents\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\butFont.xnb
+C:\Users\Dylan\Documents\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\butFont.spritefont
+C:\Users\Dylan\Documents\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\levelScr\lvlButton1.xnb
+C:\Users\Dylan\Documents\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\levelScr\lvlButton2.xnb
+C:\Users\Dylan\Documents\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\levelScr\lvlButton3.xnb
+C:\Users\Dylan\Documents\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\levelScr\lvlButton1.png
+C:\Users\Dylan\Documents\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\levelScr\lvlButton2.png
+C:\Users\Dylan\Documents\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\levelScr\lvlButton3.png
+H:\PipeGame\PipeGame_v2\PipeGame_v2\obj\x86\Debug\PipeGame_v2.exe
+H:\PipeGame\PipeGame_v2\PipeGame_v2\obj\x86\Debug\PipeGame_v2.pdb
+H:\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\butFont.xnb
+H:\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Sounds\pipeShift1.xnb
+H:\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Sounds\pipeShift2.xnb
+H:\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\GameScr\bcg.xnb
+H:\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\GameScr\Corner\corPipe1.xnb
+H:\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\GameScr\Corner\corPipe2.xnb
+H:\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\GameScr\Corner\corPipe3.xnb
+H:\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\GameScr\Corner\corPipe4.xnb
+H:\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\GameScr\Corner\corPipe5.xnb
+H:\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\GameScr\Corner\corPipe6.xnb
+H:\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\GameScr\Corner\corPipe7.xnb
+H:\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\GameScr\Corner\corPipe8.xnb
+H:\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\GameScr\Cutoff\cutPipe1.xnb
+H:\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\GameScr\Cutoff\cutPipe2.xnb
+H:\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\GameScr\Cutoff\cutPipe3.xnb
+H:\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\GameScr\Cutoff\cutPipe4.xnb
+H:\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\GameScr\Cutoff\cutPipe5.xnb
+H:\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\GameScr\Cutoff\cutPipe6.xnb
+H:\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\GameScr\Cutoff\cutPipe7.xnb
+H:\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\GameScr\Cutoff\cutPipe8.xnb
+H:\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\GameScr\Straight\strPipe1.xnb
+H:\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\GameScr\Straight\strPipe2.xnb
+H:\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\GameScr\Straight\strPipe3.xnb
+H:\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\GameScr\Straight\strPipe4.xnb
+H:\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\levelScr\lvlButton1.xnb
+H:\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\levelScr\lvlButton2.xnb
+H:\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\levelScr\lvlButton3.xnb
+H:\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\MenuScr\bcg.xnb
+H:\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\MenuScr\levelsButton1.xnb
+H:\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\MenuScr\levelsButton2.xnb
+H:\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\MenuScr\levelsButton3.xnb
+H:\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani1.xnb
+H:\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani10.xnb
+H:\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani11.xnb
+H:\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani12.xnb
+H:\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani13.xnb
+H:\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani14.xnb
+H:\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani15.xnb
+H:\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani16.xnb
+H:\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani17.xnb
+H:\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani18.xnb
+H:\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani19.xnb
+H:\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani2.xnb
+H:\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani20.xnb
+H:\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani21.xnb
+H:\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani22.xnb
+H:\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani23.xnb
+H:\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani24.xnb
+H:\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani25.xnb
+H:\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani26.xnb
+H:\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani27.xnb
+H:\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani28.xnb
+H:\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani29.xnb
+H:\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani3.xnb
+H:\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani30.xnb
+H:\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani31.xnb
+H:\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani32.xnb
+H:\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani33.xnb
+H:\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani34.xnb
+H:\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani35.xnb
+H:\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani36.xnb
+H:\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani37.xnb
+H:\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani38.xnb
+H:\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani39.xnb
+H:\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani4.xnb
+H:\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani40.xnb
+H:\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani41.xnb
+H:\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani42.xnb
+H:\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani43.xnb
+H:\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani44.xnb
+H:\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani45.xnb
+H:\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani46.xnb
+H:\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani47.xnb
+H:\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani48.xnb
+H:\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani49.xnb
+H:\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani5.xnb
+H:\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani50.xnb
+H:\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani51.xnb
+H:\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani52.xnb
+H:\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani53.xnb
+H:\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani54.xnb
+H:\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani55.xnb
+H:\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani56.xnb
+H:\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani57.xnb
+H:\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani58.xnb
+H:\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani59.xnb
+H:\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani6.xnb
+H:\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani60.xnb
+H:\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani61.xnb
+H:\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani62.xnb
+H:\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani63.xnb
+H:\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani64.xnb
+H:\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani65.xnb
+H:\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani66.xnb
+H:\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani67.xnb
+H:\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani68.xnb
+H:\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani69.xnb
+H:\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani7.xnb
+H:\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani70.xnb
+H:\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani71.xnb
+H:\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani72.xnb
+H:\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani73.xnb
+H:\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani74.xnb
+H:\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani75.xnb
+H:\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani76.xnb
+H:\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani77.xnb
+H:\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani78.xnb
+H:\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani79.xnb
+H:\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani8.xnb
+H:\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani80.xnb
+H:\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani9.xnb
+H:\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenScr\bcg.xnb
+H:\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenScr\playButton1.xnb
+H:\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenScr\playButton2.xnb
+H:\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenScr\playButton3.xnb
+H:\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Sounds\pipeShift1.wav
+H:\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Sounds\pipeShift2.wav
+H:\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\GameScr\bcg.jpg
+H:\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\GameScr\Corner\corPipe1.png
+H:\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\GameScr\Corner\corPipe2.png
+H:\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\GameScr\Corner\corPipe3.png
+H:\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\GameScr\Corner\corPipe4.png
+H:\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\GameScr\Corner\corPipe5.png
+H:\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\GameScr\Corner\corPipe6.png
+H:\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\GameScr\Corner\corPipe7.png
+H:\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\GameScr\Corner\corPipe8.png
+H:\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\GameScr\Cutoff\cutPipe1.png
+H:\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\GameScr\Cutoff\cutPipe2.png
+H:\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\GameScr\Cutoff\cutPipe3.png
+H:\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\GameScr\Cutoff\cutPipe4.png
+H:\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\GameScr\Cutoff\cutPipe5.png
+H:\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\GameScr\Cutoff\cutPipe6.png
+H:\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\GameScr\Cutoff\cutPipe7.png
+H:\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\GameScr\Cutoff\cutPipe8.png
+H:\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\GameScr\Straight\strPipe1.png
+H:\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\GameScr\Straight\strPipe2.png
+H:\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\GameScr\Straight\strPipe3.png
+H:\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\GameScr\Straight\strPipe4.png
+H:\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\levelScr\lvlButton1.png
+H:\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\levelScr\lvlButton2.png
+H:\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\levelScr\lvlButton3.png
+H:\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\MenuScr\bcg.png
+H:\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\MenuScr\levelsButton1.png
+H:\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\MenuScr\levelsButton2.png
+H:\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\MenuScr\levelsButton3.png
+H:\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani1.png
+H:\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani10.png
+H:\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani11.png
+H:\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani12.png
+H:\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani13.png
+H:\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani14.png
+H:\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani15.png
+H:\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani16.png
+H:\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani17.png
+H:\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani18.png
+H:\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani19.png
+H:\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani2.png
+H:\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani20.png
+H:\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani21.png
+H:\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani22.png
+H:\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani23.png
+H:\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani24.png
+H:\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani25.png
+H:\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani26.png
+H:\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani27.png
+H:\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani28.png
+H:\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani29.png
+H:\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani3.png
+H:\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani30.png
+H:\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani31.png
+H:\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani32.png
+H:\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani33.png
+H:\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani34.png
+H:\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani35.png
+H:\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani36.png
+H:\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani37.png
+H:\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani38.png
+H:\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani39.png
+H:\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani4.png
+H:\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani40.png
+H:\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani41.png
+H:\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani42.png
+H:\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani43.png
+H:\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani44.png
+H:\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani45.png
+H:\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani46.png
+H:\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani47.png
+H:\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani48.png
+H:\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani49.png
+H:\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani5.png
+H:\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani50.png
+H:\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani51.png
+H:\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani52.png
+H:\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani53.png
+H:\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani54.png
+H:\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani55.png
+H:\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani56.png
+H:\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani57.png
+H:\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani58.png
+H:\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani59.png
+H:\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani6.png
+H:\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani60.png
+H:\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani61.png
+H:\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani62.png
+H:\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani63.png
+H:\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani64.png
+H:\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani65.png
+H:\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani66.png
+H:\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani67.png
+H:\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani68.png
+H:\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani69.png
+H:\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani7.png
+H:\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani70.png
+H:\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani71.png
+H:\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani72.png
+H:\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani73.png
+H:\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani74.png
+H:\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani75.png
+H:\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani76.png
+H:\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani77.png
+H:\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani78.png
+H:\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani79.png
+H:\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani8.png
+H:\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani80.png
+H:\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani9.png
+H:\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenScr\bcg.jpg
+H:\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenScr\playButton1.png
+H:\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenScr\playButton2.png
+H:\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenScr\playButton3.png
+H:\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\butFont.spritefont
+H:\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\PipeGame_v2.exe
+H:\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\PipeGame_v2.pdb
+H:\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\MonoGame.Framework.dll
+H:\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+H:\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\SharpDX.dll
+H:\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+H:\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+H:\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+H:\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+H:\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\SharpDX.XInput.dll
+H:\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\SharpDX.RawInput.dll
+H:\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+H:\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\MonoGame.Framework.xml
+H:\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+H:\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\SharpDX.xml
+H:\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+H:\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+H:\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+H:\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+H:\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\SharpDX.XInput.xml
+H:\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\SharpDX.RawInput.xml
+H:\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+H:\PipeGame\PipeGame_v2\PipeGame_v2\obj\x86\Debug\PipeGame_v2.csprojResolveAssemblyReference.cache
+H:\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\CompScr\bcg.xnb
+H:\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\CompScr\bcg.png
+H:\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\CompScr\backButton1.xnb
+H:\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\CompScr\backButton2.xnb
+H:\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\CompScr\backButton3.xnb
+H:\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\CompScr\backButton1.png
+H:\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\CompScr\backButton2.png
+H:\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\CompScr\backButton3.png
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\obj\x86\Debug\PipeGame_v2.exe
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\obj\x86\Debug\PipeGame_v2.pdb
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\butFont.xnb
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Sounds\pipeShift1.xnb
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Sounds\pipeShift2.xnb
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\CompScr\backButton1.xnb
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\CompScr\backButton2.xnb
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\CompScr\backButton3.xnb
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\CompScr\bcg.xnb
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\GameScr\bcg.xnb
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\GameScr\Corner\corPipe1.xnb
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\GameScr\Corner\corPipe2.xnb
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\GameScr\Corner\corPipe3.xnb
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\GameScr\Corner\corPipe4.xnb
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\GameScr\Corner\corPipe5.xnb
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\GameScr\Corner\corPipe6.xnb
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\GameScr\Corner\corPipe7.xnb
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\GameScr\Corner\corPipe8.xnb
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\GameScr\Cutoff\cutPipe1.xnb
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\GameScr\Cutoff\cutPipe2.xnb
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\GameScr\Cutoff\cutPipe3.xnb
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\GameScr\Cutoff\cutPipe4.xnb
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\GameScr\Cutoff\cutPipe5.xnb
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\GameScr\Cutoff\cutPipe6.xnb
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\GameScr\Cutoff\cutPipe7.xnb
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\GameScr\Cutoff\cutPipe8.xnb
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\GameScr\Straight\strPipe1.xnb
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\GameScr\Straight\strPipe2.xnb
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\GameScr\Straight\strPipe3.xnb
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\GameScr\Straight\strPipe4.xnb
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\levelScr\lvlButton1.xnb
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\levelScr\lvlButton2.xnb
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\levelScr\lvlButton3.xnb
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\MenuScr\bcg.xnb
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\MenuScr\levelsButton1.xnb
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\MenuScr\levelsButton2.xnb
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\MenuScr\levelsButton3.xnb
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani1.xnb
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani10.xnb
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani11.xnb
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani12.xnb
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani13.xnb
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani14.xnb
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani15.xnb
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani16.xnb
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani17.xnb
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani18.xnb
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani19.xnb
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani2.xnb
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani20.xnb
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani21.xnb
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani22.xnb
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani23.xnb
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani24.xnb
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani25.xnb
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani26.xnb
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani27.xnb
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani28.xnb
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani29.xnb
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani3.xnb
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani30.xnb
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani31.xnb
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani32.xnb
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani33.xnb
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani34.xnb
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani35.xnb
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani36.xnb
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani37.xnb
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani38.xnb
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani39.xnb
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani4.xnb
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani40.xnb
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani41.xnb
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani42.xnb
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani43.xnb
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani44.xnb
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani45.xnb
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani46.xnb
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani47.xnb
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani48.xnb
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani49.xnb
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani5.xnb
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani50.xnb
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani51.xnb
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani52.xnb
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani53.xnb
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani54.xnb
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani55.xnb
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani56.xnb
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani57.xnb
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani58.xnb
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani59.xnb
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani6.xnb
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani60.xnb
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani61.xnb
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani62.xnb
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani63.xnb
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani64.xnb
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani65.xnb
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani66.xnb
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani67.xnb
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani68.xnb
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani69.xnb
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani7.xnb
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani70.xnb
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani71.xnb
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani72.xnb
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani73.xnb
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani74.xnb
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani75.xnb
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani76.xnb
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani77.xnb
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani78.xnb
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani79.xnb
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani8.xnb
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani80.xnb
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani9.xnb
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenScr\bcg.xnb
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenScr\playButton1.xnb
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenScr\playButton2.xnb
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenScr\playButton3.xnb
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Sounds\pipeShift1.wav
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Sounds\pipeShift2.wav
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\CompScr\backButton1.png
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\CompScr\backButton2.png
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\CompScr\backButton3.png
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\CompScr\bcg.png
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\GameScr\bcg.jpg
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\GameScr\Corner\corPipe1.png
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\GameScr\Corner\corPipe2.png
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\GameScr\Corner\corPipe3.png
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\GameScr\Corner\corPipe4.png
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\GameScr\Corner\corPipe5.png
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\GameScr\Corner\corPipe6.png
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\GameScr\Corner\corPipe7.png
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\GameScr\Corner\corPipe8.png
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\GameScr\Cutoff\cutPipe1.png
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\GameScr\Cutoff\cutPipe2.png
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\GameScr\Cutoff\cutPipe3.png
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\GameScr\Cutoff\cutPipe4.png
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\GameScr\Cutoff\cutPipe5.png
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\GameScr\Cutoff\cutPipe6.png
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\GameScr\Cutoff\cutPipe7.png
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\GameScr\Cutoff\cutPipe8.png
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\GameScr\Straight\strPipe1.png
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\GameScr\Straight\strPipe2.png
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\GameScr\Straight\strPipe3.png
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\GameScr\Straight\strPipe4.png
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\levelScr\lvlButton1.png
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\levelScr\lvlButton2.png
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\levelScr\lvlButton3.png
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\MenuScr\bcg.png
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\MenuScr\levelsButton1.png
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\MenuScr\levelsButton2.png
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\MenuScr\levelsButton3.png
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani1.png
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani10.png
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani11.png
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani12.png
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani13.png
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani14.png
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani15.png
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani16.png
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani17.png
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani18.png
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani19.png
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani2.png
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani20.png
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani21.png
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani22.png
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani23.png
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani24.png
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani25.png
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani26.png
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani27.png
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani28.png
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani29.png
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani3.png
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani30.png
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani31.png
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani32.png
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani33.png
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani34.png
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani35.png
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani36.png
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani37.png
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani38.png
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani39.png
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani4.png
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani40.png
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani41.png
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani42.png
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani43.png
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani44.png
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani45.png
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani46.png
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani47.png
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani48.png
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani49.png
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani5.png
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani50.png
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani51.png
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani52.png
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani53.png
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani54.png
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani55.png
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani56.png
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani57.png
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani58.png
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani59.png
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani6.png
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani60.png
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani61.png
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani62.png
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani63.png
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani64.png
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani65.png
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani66.png
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani67.png
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani68.png
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani69.png
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani7.png
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani70.png
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani71.png
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani72.png
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani73.png
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani74.png
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani75.png
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani76.png
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani77.png
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani78.png
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani79.png
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani8.png
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani80.png
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani9.png
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenScr\bcg.jpg
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenScr\playButton1.png
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenScr\playButton2.png
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenScr\playButton3.png
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\butFont.spritefont
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\PipeGame_v2.exe
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\PipeGame_v2.pdb
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\MonoGame.Framework.dll
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\SharpDX.dll
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\SharpDX.XInput.dll
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\SharpDX.RawInput.dll
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\MonoGame.Framework.xml
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\SharpDX.xml
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\SharpDX.XInput.xml
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\SharpDX.RawInput.xml
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\obj\x86\Debug\PipeGame_v2.csprojResolveAssemblyReference.cache
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\obj\x86\Debug\PipeGame_v2.exe
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\obj\x86\Debug\PipeGame_v2.pdb
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\butFont.xnb
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Sounds\pipeShift1.xnb
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Sounds\pipeShift2.xnb
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\CompScr\backButton1.xnb
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\CompScr\backButton2.xnb
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\CompScr\backButton3.xnb
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\CompScr\bcg.xnb
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\GameScr\bcg.xnb
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\GameScr\Corner\corPipe1.xnb
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\GameScr\Corner\corPipe2.xnb
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\GameScr\Corner\corPipe3.xnb
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\GameScr\Corner\corPipe4.xnb
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\GameScr\Corner\corPipe5.xnb
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\GameScr\Corner\corPipe6.xnb
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\GameScr\Corner\corPipe7.xnb
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\GameScr\Corner\corPipe8.xnb
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\GameScr\Cutoff\cutPipe1.xnb
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\GameScr\Cutoff\cutPipe2.xnb
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\GameScr\Cutoff\cutPipe3.xnb
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\GameScr\Cutoff\cutPipe4.xnb
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\GameScr\Cutoff\cutPipe5.xnb
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\GameScr\Cutoff\cutPipe6.xnb
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\GameScr\Cutoff\cutPipe7.xnb
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\GameScr\Cutoff\cutPipe8.xnb
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\GameScr\Straight\strPipe1.xnb
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\GameScr\Straight\strPipe2.xnb
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\GameScr\Straight\strPipe3.xnb
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\GameScr\Straight\strPipe4.xnb
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\levelScr\lvlButton1.xnb
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\levelScr\lvlButton2.xnb
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\levelScr\lvlButton3.xnb
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\MenuScr\bcg.xnb
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\MenuScr\levelsButton1.xnb
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\MenuScr\levelsButton2.xnb
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\MenuScr\levelsButton3.xnb
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani1.xnb
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani10.xnb
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani11.xnb
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani12.xnb
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani13.xnb
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani14.xnb
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani15.xnb
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani16.xnb
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani17.xnb
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani18.xnb
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani19.xnb
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani2.xnb
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani20.xnb
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani21.xnb
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani22.xnb
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani23.xnb
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani24.xnb
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani25.xnb
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani26.xnb
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani27.xnb
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani28.xnb
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani29.xnb
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani3.xnb
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani30.xnb
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani31.xnb
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani32.xnb
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani33.xnb
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani34.xnb
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani35.xnb
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani36.xnb
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani37.xnb
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani38.xnb
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani39.xnb
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani4.xnb
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani40.xnb
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani41.xnb
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani42.xnb
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani43.xnb
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani44.xnb
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani45.xnb
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani46.xnb
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani47.xnb
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani48.xnb
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani49.xnb
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani5.xnb
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani50.xnb
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani51.xnb
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani52.xnb
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani53.xnb
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani54.xnb
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani55.xnb
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani56.xnb
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani57.xnb
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani58.xnb
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani59.xnb
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani6.xnb
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani60.xnb
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani61.xnb
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani62.xnb
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani63.xnb
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani64.xnb
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani65.xnb
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani66.xnb
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani67.xnb
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani68.xnb
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani69.xnb
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani7.xnb
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani70.xnb
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani71.xnb
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani72.xnb
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani73.xnb
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani74.xnb
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani75.xnb
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani76.xnb
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani77.xnb
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani78.xnb
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani79.xnb
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani8.xnb
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani80.xnb
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani9.xnb
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenScr\bcg.xnb
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenScr\playButton1.xnb
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenScr\playButton2.xnb
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenScr\playButton3.xnb
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Sounds\pipeShift1.wav
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Sounds\pipeShift2.wav
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\CompScr\backButton1.png
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\CompScr\backButton2.png
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\CompScr\backButton3.png
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\CompScr\bcg.png
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\GameScr\bcg.jpg
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\GameScr\Corner\corPipe1.png
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\GameScr\Corner\corPipe2.png
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\GameScr\Corner\corPipe3.png
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\GameScr\Corner\corPipe4.png
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\GameScr\Corner\corPipe5.png
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\GameScr\Corner\corPipe6.png
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\GameScr\Corner\corPipe7.png
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\GameScr\Corner\corPipe8.png
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\GameScr\Cutoff\cutPipe1.png
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\GameScr\Cutoff\cutPipe2.png
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\GameScr\Cutoff\cutPipe3.png
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\GameScr\Cutoff\cutPipe4.png
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\GameScr\Cutoff\cutPipe5.png
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\GameScr\Cutoff\cutPipe6.png
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\GameScr\Cutoff\cutPipe7.png
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\GameScr\Cutoff\cutPipe8.png
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\GameScr\Straight\strPipe1.png
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\GameScr\Straight\strPipe2.png
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\GameScr\Straight\strPipe3.png
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\GameScr\Straight\strPipe4.png
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\levelScr\lvlButton1.png
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\levelScr\lvlButton2.png
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\levelScr\lvlButton3.png
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\MenuScr\bcg.png
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\MenuScr\levelsButton1.png
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\MenuScr\levelsButton2.png
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\MenuScr\levelsButton3.png
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani1.png
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani10.png
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani11.png
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani12.png
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani13.png
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani14.png
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani15.png
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani16.png
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani17.png
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani18.png
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani19.png
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani2.png
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani20.png
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani21.png
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani22.png
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani23.png
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani24.png
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani25.png
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani26.png
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani27.png
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani28.png
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani29.png
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani3.png
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani30.png
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani31.png
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani32.png
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani33.png
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani34.png
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani35.png
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani36.png
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani37.png
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani38.png
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani39.png
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani4.png
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani40.png
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani41.png
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani42.png
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani43.png
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani44.png
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani45.png
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani46.png
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani47.png
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani48.png
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani49.png
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani5.png
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani50.png
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani51.png
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani52.png
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani53.png
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani54.png
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani55.png
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani56.png
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani57.png
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani58.png
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani59.png
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani6.png
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani60.png
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani61.png
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani62.png
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani63.png
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani64.png
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani65.png
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani66.png
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani67.png
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani68.png
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani69.png
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani7.png
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani70.png
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani71.png
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani72.png
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani73.png
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani74.png
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani75.png
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani76.png
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani77.png
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani78.png
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani79.png
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani8.png
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani80.png
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenAnimation\ani9.png
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenScr\bcg.jpg
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenScr\playButton1.png
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenScr\playButton2.png
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\OpenScr\playButton3.png
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\butFont.spritefont
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\PipeGame_v2.exe
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\PipeGame_v2.pdb
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\MonoGame.Framework.dll
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\SharpDX.dll
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\SharpDX.XInput.dll
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\SharpDX.RawInput.dll
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\MonoGame.Framework.xml
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\SharpDX.xml
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\SharpDX.XInput.xml
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\SharpDX.RawInput.xml
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\obj\x86\Debug\PipeGame_v2.csprojResolveAssemblyReference.cache
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\RandomScr\horBar.xnb
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\RandomScr\horSlider.xnb
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\RandomScr\verBar.xnb
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\RandomScr\verSlider.xnb
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\RandomScr\horBar.png
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\RandomScr\horSlider.png
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\RandomScr\verBar.png
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\RandomScr\verSlider.png
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\RandomScr\blob.xnb
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\RandomScr\canvas.xnb
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\RandomScr\blob.png
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\RandomScr\canvas.png
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\RandomScr\horBar.xnb
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\RandomScr\horSlider.xnb
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\RandomScr\verBar.xnb
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\RandomScr\verSlider.xnb
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\RandomScr\blob.xnb
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\RandomScr\canvas.xnb
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\RandomScr\blob.png
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\RandomScr\canvas.png
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\RandomScr\horBar.png
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\RandomScr\horSlider.png
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\RandomScr\verBar.png
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\RandomScr\verSlider.png
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\GameScr\howto.xnb
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\GameScr\howto.png
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\MenuScr\rndButton1.xnb
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\MenuScr\rndButton2.xnb
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\MenuScr\rndButton3.xnb
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\MenuScr\rndButton1.png
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\MenuScr\rndButton2.png
+E:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\MenuScr\rndButton3.png
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\GameScr\howto.xnb
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\MenuScr\rndButton1.xnb
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\MenuScr\rndButton2.xnb
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\MenuScr\rndButton3.xnb
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\GameScr\howto.png
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\MenuScr\rndButton1.png
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\MenuScr\rndButton2.png
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\MenuScr\rndButton3.png
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\inpFont.xnb
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\CompScr\input1.xnb
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\CompScr\input2.xnb
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\CompScr\input1.png
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\CompScr\input2.png
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\GameScr\crossButton1.xnb
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\GameScr\crossButton2.xnb
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\GameScr\crossButton3.xnb
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\GameScr\crossButton1.png
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\GameScr\crossButton2.png
+F:\New\PipeGame\PipeGame_v2\PipeGame_v2\bin\Windows\x86\Debug\Content\Textures\GameScr\crossButton3.png

@@ -1,0 +1,15 @@
+c:\users\user 1\documents\visual studio 2015\Projects\SeedEncoder\SeedEncoder\bin\Debug\SeedEncoder.exe.config
+c:\users\user 1\documents\visual studio 2015\Projects\SeedEncoder\SeedEncoder\bin\Debug\SeedEncoder.exe
+c:\users\user 1\documents\visual studio 2015\Projects\SeedEncoder\SeedEncoder\bin\Debug\SeedEncoder.pdb
+c:\users\user 1\documents\visual studio 2015\Projects\SeedEncoder\SeedEncoder\obj\Debug\SeedEncoder.csprojResolveAssemblyReference.cache
+c:\users\user 1\documents\visual studio 2015\Projects\SeedEncoder\SeedEncoder\obj\Debug\SeedEncoder.exe
+c:\users\user 1\documents\visual studio 2015\Projects\SeedEncoder\SeedEncoder\obj\Debug\SeedEncoder.pdb
+E:\New\PipeGame\SeedEncoder\SeedEncoder\bin\Debug\SeedEncoder.exe.config
+E:\New\PipeGame\SeedEncoder\SeedEncoder\obj\Debug\SeedEncoder.exe
+E:\New\PipeGame\SeedEncoder\SeedEncoder\obj\Debug\SeedEncoder.pdb
+E:\New\PipeGame\SeedEncoder\SeedEncoder\bin\Debug\SeedEncoder.exe
+E:\New\PipeGame\SeedEncoder\SeedEncoder\bin\Debug\SeedEncoder.pdb
+E:\New\PipeGame\SeedEncoder\SeedEncoder\obj\Debug\SeedEncoder.csprojResolveAssemblyReference.cache
+F:\New\PipeGame\SeedEncoder\SeedEncoder\bin\Debug\SeedEncoder.exe.config
+F:\New\PipeGame\SeedEncoder\SeedEncoder\obj\Debug\SeedEncoder.exe
+F:\New\PipeGame\SeedEncoder\SeedEncoder\obj\Debug\SeedEncoder.pdb

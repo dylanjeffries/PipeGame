@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>F:/New/PipeGame/PipeGame_v2/PipeGame_v2/Content/Sounds/pipeShift2.wav</SourceFile>
+  <SourceTime>2017-01-11T01:30:06+00:00</SourceTime>
+  <DestFile>F:/New/PipeGame/PipeGame_v2/PipeGame_v2/Content/bin/Windows/Sounds/pipeShift2.xnb</DestFile>
+  <DestTime>2017-02-18T01:50:20+00:00</DestTime>
+  <Importer>WavImporter</Importer>
+  <ImporterTime>2016-03-30T07:36:08+01:00</ImporterTime>
+  <Processor>SoundEffectProcessor</Processor>
+  <ProcessorTime>2016-03-30T07:36:08+01:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>
